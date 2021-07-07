@@ -64,6 +64,19 @@ Amazon Lambda is used to enhance original bot
 
 <img width="864" alt="Screen Shot 2021-07-06 at 6 32 21 PM" src="https://user-images.githubusercontent.com/80833988/124686760-83051900-de88-11eb-98c2-3b314725d635.png">
 
+### Step 4: Test Lambda
+
+You can find Test Files in the repo in separate folder. On the following picture "negative age" mistake was tested and code passed.
+
+[
+<img width="809" alt="Screen Shot 2021-07-06 at 9 02 56 PM" src="https://user-images.githubusercontent.com/80833988/124698345-8ce54700-de9d-11eb-8c0c-5ddfef0f60de.png">
+](url)
+
+On the following video you can see this code deployed with the bot:
+
+https://user-images.githubusercontent.com/80833988/124698952-beaadd80-de9e-11eb-96a0-6cefdd348d8b.mov
+
+
 ### Step 4: Deploy Lambda
 
 <img width="691" alt="Screen Shot 2021-07-06 at 6 31 25 PM" src="https://user-images.githubusercontent.com/80833988/124686672-623cc380-de88-11eb-905f-3616e0e6a1fc.png">
