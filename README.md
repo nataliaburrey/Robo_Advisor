@@ -6,7 +6,7 @@
 
 
 
-> "In this Challenge, I combine my new AWS skills with existing Python superpowers to create a bot that will recommend an investment portfolio for a retirement plan
+> "In this Challenge, I combine my new AWS (Amazon Web Services) skills with existing Python superpowers to create a bot that will recommend an investment portfolio for a retirement plan
 "
 
 
