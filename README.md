@@ -17,14 +17,14 @@
 
 
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#how-to-install)
-- [Project findings](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#project-findings)
-- [Helps recruiters](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#license)
+- [Overview of the project and project goals](https://github.com/nataliaburrey/Robo_Advisor#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/nataliaburrey/Robo_Advisor#software-version-control)
+    - [Libraries](https://github.com/nataliaburrey/Robo_Advisor#libraries)
+    - [Work with GitHub](https://github.com/nataliaburrey/Robo_Advisor#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/Robo_Advisor#how-to-install)
+- [Working Bot Demonstration](https://github.com/nataliaburrey/Robo_Advisor#working-bot-demonstration)
+- [Helps recruiters](https://github.com/nataliaburrey/Robo_Advisor#helps-recruiters)
+- [License](https://github.com/nataliaburrey/Robo_Advisor#license)
 
 
 
